@@ -1,0 +1,15 @@
+.custom_media_image,.custom_media_image_logo,.custom_media_image_1, .custom_media_image_footer_about{
+    padding-bottom: 10px ! important;
+    padding-top: 10px ! important;
+    max-width: 100% ! important;
+}
+
+.yala-travel-remove-counter, .yala-travel-remove-footer-about{
+     background: #d9534f!important;
+    color: #FFF ! important;
+}
+
+.custom_media_upload,.custom_media_upload_footer_about{
+    background: #27a78f ! important;
+    color: #FFF ! important;
+}

@@ -1,0 +1,1276 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Yala Travel\n"
+"POT-Creation-Date: 2020-09-08 17:06+0545\n"
+"PO-Revision-Date: 2020-09-08 17:05+0545\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:26
+#, php-format
+msgid "404: %s"
+msgstr ""
+
+#: 404.php:27
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:28
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#. translators: Search Text
+#: 404.php:32 header-parts/header-middle.php:72
+msgid "Search"
+msgstr ""
+
+#: 404.php:39
+msgid "Return To Home"
+msgstr ""
+
+#: archive.php:25 index.php:50 page.php:30 search.php:26 single.php:26
+#: woocommerce/single-product.php:47
+msgid "Home"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: elementor-widget/widgets.php:22
+msgid "Yala Travel"
+msgstr ""
+
+#: elementor-widget/widgets/banner.php:7
+msgid "banner"
+msgstr ""
+
+#: elementor-widget/widgets/banner.php:12
+#: elementor-widget/widgets/banner.php:23
+msgid "Banner Section"
+msgstr ""
+
+#: elementor-widget/widgets/banner.php:32
+msgid "Enable/Disable Banner Section"
+msgstr ""
+
+#: elementor-widget/widgets/banner.php:34 elementor-widget/widgets/blog.php:34
+#: elementor-widget/widgets/destinations.php:34
+#: elementor-widget/widgets/featured-tours.php:34
+#: elementor-widget/widgets/partners.php:34
+#: elementor-widget/widgets/popular-trips.php:34
+#: elementor-widget/widgets/services.php:34
+#: elementor-widget/widgets/top-service.php:34
+msgid "Show"
+msgstr ""
+
+#: elementor-widget/widgets/banner.php:35 elementor-widget/widgets/blog.php:35
+#: elementor-widget/widgets/destinations.php:35
+#: elementor-widget/widgets/featured-tours.php:35
+#: elementor-widget/widgets/partners.php:35
+#: elementor-widget/widgets/popular-trips.php:35
+#: elementor-widget/widgets/services.php:35
+#: elementor-widget/widgets/top-service.php:35
+msgid "Hide"
+msgstr ""
+
+#: elementor-widget/widgets/banner.php:44
+msgid "Banner Tagline"
+msgstr ""
+
+#: elementor-widget/widgets/banner.php:53
+msgid "Banner Title"
+msgstr ""
+
+#: elementor-widget/widgets/banner.php:62
+msgid "Banner Image"
+msgstr ""
+
+#: elementor-widget/widgets/banner.php:73
+msgid "Button Text 1"
+msgstr ""
+
+#: elementor-widget/widgets/banner.php:82
+msgid "Button Url 1"
+msgstr ""
+
+#: elementor-widget/widgets/banner.php:91
+msgid "Button Text 2"
+msgstr ""
+
+#: elementor-widget/widgets/banner.php:100
+msgid "Button Url 2"
+msgstr ""
+
+#: elementor-widget/widgets/blog.php:7
+msgid "blog"
+msgstr ""
+
+#: elementor-widget/widgets/blog.php:12 elementor-widget/widgets/blog.php:23
+msgid "Blog Section"
+msgstr ""
+
+#: elementor-widget/widgets/blog.php:32
+msgid "Enable/Disable Blog Section"
+msgstr ""
+
+#: elementor-widget/widgets/blog.php:43
+msgid "Blog Title"
+msgstr ""
+
+#: elementor-widget/widgets/blog.php:52
+msgid "Select Category For Blog"
+msgstr ""
+
+#: elementor-widget/widgets/blog.php:63
+#: elementor-widget/widgets/destinations.php:53
+#: elementor-widget/widgets/featured-tours.php:53
+#: elementor-widget/widgets/popular-trips.php:53
+msgid "Number of post"
+msgstr ""
+
+#: elementor-widget/widgets/blog.php:64
+#: elementor-widget/widgets/destinations.php:54
+#: elementor-widget/widgets/featured-tours.php:54
+#: elementor-widget/widgets/popular-trips.php:54
+msgid "such as 1, 2, 3...."
+msgstr ""
+
+#: elementor-widget/widgets/blog.php:73
+#: elementor-widget/widgets/featured-tours.php:63
+msgid "More Detatil Button Text"
+msgstr ""
+
+#: elementor-widget/widgets/destinations.php:7
+msgid "Destination"
+msgstr ""
+
+#: elementor-widget/widgets/destinations.php:12
+#: elementor-widget/widgets/destinations.php:23
+msgid "Destination Section"
+msgstr ""
+
+#: elementor-widget/widgets/destinations.php:32
+msgid "Enable/Disable Destination Section"
+msgstr ""
+
+#: elementor-widget/widgets/destinations.php:44
+msgid "Destination Title"
+msgstr ""
+
+#: elementor-widget/widgets/destinations.php:63
+msgid "View More Button Text"
+msgstr ""
+
+#: elementor-widget/widgets/featured-tours.php:7
+msgid "Featured Tour"
+msgstr ""
+
+#: elementor-widget/widgets/featured-tours.php:12
+#: elementor-widget/widgets/featured-tours.php:23
+msgid "Featured Tour Section"
+msgstr ""
+
+#: elementor-widget/widgets/featured-tours.php:32
+msgid "Enable/Disable Featured Tour Section"
+msgstr ""
+
+#: elementor-widget/widgets/featured-tours.php:44
+msgid "Featured Tour Title"
+msgstr ""
+
+#: elementor-widget/widgets/partners.php:7
+msgid "partners"
+msgstr ""
+
+#: elementor-widget/widgets/partners.php:12
+#: elementor-widget/widgets/partners.php:23
+msgid "Partners Section"
+msgstr ""
+
+#: elementor-widget/widgets/partners.php:32
+msgid "Enable/Disable Partners Section"
+msgstr ""
+
+#: elementor-widget/widgets/partners.php:44
+msgid "Partner Items"
+msgstr ""
+
+#: elementor-widget/widgets/partners.php:54
+msgid "Partner Image or Logo"
+msgstr ""
+
+#: elementor-widget/widgets/popular-trips.php:7
+msgid "Popular Trip"
+msgstr ""
+
+#: elementor-widget/widgets/popular-trips.php:12
+#: elementor-widget/widgets/popular-trips.php:23
+msgid "Popular Trip Section"
+msgstr ""
+
+#: elementor-widget/widgets/popular-trips.php:32
+msgid "Enable/Disable Popular Trip Section"
+msgstr ""
+
+#: elementor-widget/widgets/popular-trips.php:44
+msgid "Popular Trip Title"
+msgstr ""
+
+#: elementor-widget/widgets/services.php:7
+msgid "services"
+msgstr ""
+
+#: elementor-widget/widgets/services.php:12
+#: elementor-widget/widgets/services.php:23
+msgid "Services Section"
+msgstr ""
+
+#: elementor-widget/widgets/services.php:32
+msgid "Enable/Disable Services Section"
+msgstr ""
+
+#: elementor-widget/widgets/services.php:44
+msgid "Travel Services Title"
+msgstr ""
+
+#: elementor-widget/widgets/services.php:54
+#: elementor-widget/widgets/top-service.php:55
+msgid "Service Items"
+msgstr ""
+
+#: elementor-widget/widgets/services.php:60
+#: elementor-widget/widgets/top-service.php:61
+msgid "Service Title"
+msgstr ""
+
+#: elementor-widget/widgets/services.php:66
+#: elementor-widget/widgets/top-service.php:67
+msgid "Service Description"
+msgstr ""
+
+#: elementor-widget/widgets/services.php:72
+msgid "Service Readmore Url"
+msgstr ""
+
+#: elementor-widget/widgets/services.php:79
+#: elementor-widget/widgets/top-service.php:73
+msgid "Service Icon"
+msgstr ""
+
+#: elementor-widget/widgets/top-service.php:7
+msgid "topservice"
+msgstr ""
+
+#: elementor-widget/widgets/top-service.php:12
+#: elementor-widget/widgets/top-service.php:23
+msgid "Top Service Section"
+msgstr ""
+
+#: elementor-widget/widgets/top-service.php:32
+msgid "Enable/Disable Top Service Section"
+msgstr ""
+
+#: elementor-widget/widgets/top-service.php:44
+msgid "Top Service Image"
+msgstr ""
+
+#. translators: 1: Current Date, 2: Theme name, 3: Theme author.
+#: footer.php:37
+#, php-format
+msgid "Copyright %1$s %2$s. All Rights Reserved. Powered by %3$s"
+msgstr ""
+
+#. Author of the plugin/theme
+#: footer.php:37
+msgid "yalathemes"
+msgstr ""
+
+#: functions.php:54
+msgid "Top Header Menu"
+msgstr ""
+
+#: functions.php:55
+msgid "Main menu"
+msgstr ""
+
+#: functions.php:56
+msgid "Bottom Footer menu"
+msgstr ""
+
+#: functions.php:124
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:126 functions.php:136
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:134
+msgid "Footer Widgets Area"
+msgstr ""
+
+#: header-parts/header-middle.php:35
+msgid "Primary Menu"
+msgstr ""
+
+#: header-parts/header-topbar.php:35
+msgid "My Account"
+msgstr ""
+
+#: header-parts/header-topbar.php:36
+msgid "Logout"
+msgstr ""
+
+#: header-parts/header-topbar.php:39
+msgid "Login / Register"
+msgstr ""
+
+#: header.php:33
+msgid "Skip to content"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:388
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1121
+#: inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/customizer.php:27
+msgid "Yala Travel Pro"
+msgstr ""
+
+#: inc/customizer.php:28
+msgid "Buy Pro"
+msgstr ""
+
+#: inc/customizer/color/color-customizer.php:17
+msgid "Primary Theme Color"
+msgstr ""
+
+#. translators: 1: option value, 2:check selected, 3: text
+#: inc/customizer/customizer-classes.php:57
+msgid "Select"
+msgstr ""
+
+#: inc/customizer/yala-travel-general-panel.php:31
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/yala-travel-header-panel.php:26
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/yala-travel-header-panel.php:43
+msgid "Top Header Section"
+msgstr ""
+
+#: inc/customizer/yala-travel-header-panel.php:44
+msgid "Managed the content display at top header section."
+msgstr ""
+
+#: inc/customizer/yala-travel-header-panel.php:61
+msgid "Enable/Disable Top Header Section."
+msgstr ""
+
+#: inc/customizer/yala-travel-header-panel.php:79
+msgid "Enable/Disable social links in top header(right)."
+msgstr ""
+
+#: inc/customizer/yala-travel-header-panel.php:97
+msgid "Enable/Disable top header Left section."
+msgstr ""
+
+#: inc/customizer/yala-travel-header-panel.php:116
+msgid "Enable/Disable Top Header Auth Section."
+msgstr ""
+
+#: inc/customizer/yala-travel-header-panel.php:156
+msgid "Social Links"
+msgstr ""
+
+#: inc/customizer/yala-travel-header-panel.php:160
+msgid "Font Awesome Icon"
+msgstr ""
+
+#: inc/customizer/yala-travel-header-panel.php:161
+msgid "Example: fa-facebook"
+msgstr ""
+
+#: inc/customizer/yala-travel-header-panel.php:165
+msgid "Link"
+msgstr ""
+
+#: inc/customizer/yala-travel-header-panel.php:166
+msgid "Example: http://facebook.com"
+msgstr ""
+
+#: inc/customizer/yala-travel-header-panel.php:171
+msgid "links"
+msgstr ""
+
+#: inc/customizer/yala-travel-header-panel.php:192
+msgid "Middle Header Section"
+msgstr ""
+
+#: inc/customizer/yala-travel-header-panel.php:193
+msgid "Managed the content display at middle header section."
+msgstr ""
+
+#: inc/customizer/yala-travel-header-panel.php:210
+msgid "Enable/Disable Middle Header Section."
+msgstr ""
+
+#: inc/customizer/yala-travel-header-panel.php:229
+#: inc/customizer/yala-travel-header-panel.php:247
+msgid "Enable/Disable Middle Header Search Section."
+msgstr ""
+
+#: inc/repeater/class-control-repeater.php:74
+msgid "row"
+msgstr ""
+
+#. translators: %s: Button Name.
+#: inc/repeater/class-control-repeater.php:83
+#, php-format
+msgid "Add new %s"
+msgstr ""
+
+#. translators: %s:  Limit row.
+#: inc/repeater/class-control-repeater.php:240
+#, php-format
+msgid "Limit: %s rows"
+msgstr ""
+
+#: inc/repeater/class-control-repeater.php:372
+msgid "Hex Value"
+msgstr ""
+
+#: inc/repeater/class-control-repeater.php:397
+#: inc/repeater/class-control-repeater.php:402
+msgid "No Image Selected"
+msgstr ""
+
+#: inc/repeater/class-control-repeater.php:407
+#: inc/repeater/class-control-repeater.php:472
+msgid "Remove"
+msgstr ""
+
+#: inc/repeater/class-control-repeater.php:408
+#: inc/repeater/class-control-repeater.php:412
+msgid "Add Image"
+msgstr ""
+
+#: inc/repeater/class-control-repeater.php:408
+#: inc/repeater/class-control-repeater.php:410
+msgid "Change Image"
+msgstr ""
+
+#: inc/repeater/class-control-repeater.php:433
+#: inc/repeater/class-control-repeater.php:438
+msgid "No File Selected"
+msgstr ""
+
+#: inc/repeater/class-control-repeater.php:444
+#: inc/repeater/class-control-repeater.php:448
+msgid "Add File"
+msgstr ""
+
+#: inc/repeater/class-control-repeater.php:444
+#: inc/repeater/class-control-repeater.php:446
+msgid "Change File"
+msgstr ""
+
+#. translators: %s: post date.
+#: inc/template-tags.php:29
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#. translators: %s: post author.
+#: inc/template-tags.php:45
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:62
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:65
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:69
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:72
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: post title
+#: inc/template-tags.php:82
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:99 template-parts/content-page.php:49
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/widgets/footer-section/footer-about-widgets.php:24
+msgid "TM: Footer info"
+msgstr ""
+
+#: inc/widgets/footer-section/footer-about-widgets.php:25
+msgid "Footer info section"
+msgstr ""
+
+#: inc/widgets/footer-section/footer-about-widgets.php:42
+msgid "Enable/Disable Footer About Section"
+msgstr ""
+
+#: inc/widgets/footer-section/footer-about-widgets.php:46
+msgid "Logo:"
+msgstr ""
+
+#: inc/widgets/footer-section/footer-about-widgets.php:49
+msgid "Upload Image"
+msgstr ""
+
+#: inc/widgets/footer-section/footer-about-widgets.php:50
+msgid "Remove Image"
+msgstr ""
+
+#: inc/widgets/footer-section/footer-about-widgets.php:54
+msgid "Description: "
+msgstr ""
+
+#: inc/widgets/footer-section/footer-about-widgets.php:59
+msgid "Facebook Url:"
+msgstr ""
+
+#: inc/widgets/footer-section/footer-about-widgets.php:65
+msgid "Twitter Url:"
+msgstr ""
+
+#: inc/widgets/footer-section/footer-about-widgets.php:71
+msgid "Linked In Url:"
+msgstr ""
+
+#: inc/widgets/footer-section/footer-about-widgets.php:77
+msgid "Instagram Url:"
+msgstr ""
+
+#: inc/widgets/footer-section/footer-location-widgets.php:26
+msgid "TM : Footer Location"
+msgstr ""
+
+#: inc/widgets/footer-section/footer-location-widgets.php:27
+msgid "Footer Location section"
+msgstr ""
+
+#: inc/widgets/footer-section/footer-location-widgets.php:45
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/footer-section/footer-location-widgets.php:53
+msgid "Address icon example as \" fa fa-map-marker \" "
+msgstr ""
+
+#: inc/widgets/footer-section/footer-location-widgets.php:60
+msgid "Address info"
+msgstr ""
+
+#: inc/widgets/footer-section/footer-location-widgets.php:67
+msgid "Phone icon example as \" fa fa-phone \""
+msgstr ""
+
+#: inc/widgets/footer-section/footer-location-widgets.php:74
+msgid "Phone Number"
+msgstr ""
+
+#: inc/widgets/footer-section/footer-location-widgets.php:82
+msgid "Email icon example as \" fa fa-envelope-open \""
+msgstr ""
+
+#: inc/widgets/footer-section/footer-location-widgets.php:90
+msgid "Email Address"
+msgstr ""
+
+#: inc/widgets/footer-section/footer-recent-news-widgets.php:24
+msgid "Footer Recent News widgets. Place it within \"Footer widget\""
+msgstr ""
+
+#: inc/widgets/footer-section/footer-recent-news-widgets.php:27
+msgid "TM: Footer Recent News"
+msgstr ""
+
+#: inc/widgets/footer-section/footer-recent-news-widgets.php:31
+msgid "Recent News"
+msgstr ""
+
+#: inc/widgets/footer-section/footer-recent-news-widgets.php:37
+msgid "Enable/Disable date to show"
+msgstr ""
+
+#: inc/widgets/footer-section/footer-recent-news-widgets.php:40
+msgid "Title: "
+msgstr ""
+
+#: inc/widgets/footer-section/footer-recent-news-widgets.php:45
+msgid "Post No: "
+msgstr ""
+
+#. translators: %s: search query.
+#: index.php:35
+#, php-format
+msgid "Search Result For: %s"
+msgstr ""
+
+#: search.php:24
+msgid "Search Results"
+msgstr ""
+
+#: section/destinations.php:43
+msgid "Tours"
+msgstr ""
+
+#. translators: From Text
+#: section/featured-tours.php:80 woocommerce/archive-product.php:121
+msgid "From"
+msgstr ""
+
+#: section/services.php:31
+msgid "Read More"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:23 template-parts/content-single.php:23
+msgid "Comments"
+msgstr ""
+
+#: template-parts/content-page.php:32 template-parts/content-single.php:53
+#: template-parts/content.php:42
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-search.php:34 template-parts/content.php:34
+msgid "Read more"
+msgstr ""
+
+#: template-parts/content-single.php:34
+msgid "Tags:"
+msgstr ""
+
+#: woocommerce/archive-product.php:71
+msgid "Tour Package"
+msgstr ""
+
+#. translators: View more text
+#: woocommerce/archive-product.php:119
+msgid "View More"
+msgstr ""
+
+#: woocommerce/single-product.php:87
+msgid "Description"
+msgstr ""
+
+#: woocommerce/single-product.php:92
+msgid "Itinerary"
+msgstr ""
+
+#: woocommerce/single-product.php:98
+msgid "Include/Exclude"
+msgstr ""
+
+#: woocommerce/single-product.php:102
+msgid "Accomodation"
+msgstr ""
+
+#: woocommerce/single-product.php:107
+msgid "Map"
+msgstr ""
+
+#: woocommerce/single-product.php:111
+msgid "Review"
+msgstr ""
+
+#: woocommerce/single-product.php:178
+msgid "Details"
+msgstr ""
+
+#: woocommerce/single-product.php:186
+msgid "Category"
+msgstr ""
+
+#: woocommerce/single-product.php:192
+msgid "Price:"
+msgstr ""
+
+#: woocommerce/single-product.php:199
+msgid "Group Size:"
+msgstr ""
+
+#: woocommerce/single-product.php:205
+msgid "Trip Duration:"
+msgstr ""
+
+#: woocommerce/single-product.php:211
+msgid "Trek Duration:"
+msgstr ""
+
+#: woocommerce/single-product.php:217
+msgid "Max Altitude:"
+msgstr ""
+
+#: woocommerce/single-product.php:223
+msgid "Difficulty:"
+msgstr ""
+
+#: woocommerce/single-product.php:229
+msgid "Best Season:"
+msgstr ""
+
+#: woocommerce/single-product.php:235
+msgid "Remote:"
+msgstr ""
+
+#: woocommerce/single-product.php:241
+msgid "Restricted Permits:"
+msgstr ""
+
+#: woocommerce/single-product.php:247
+msgid "Required permits:"
+msgstr ""
+
+#: woocommerce/single-product.php:261
+msgid "Book now"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://yalathemes.com/downloads/yala-travel/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Yala Travel is an Awesome Woocommerce based Travel & Trekking WordPress "
+"Theme, It Consist of Different Section which can easily managed by Elementor "
+"Drag and Drop Features.It have banner section, Blog Section, Destination "
+"Secions, Popular Trips Section, Service Section. View Demo https://"
+"yalathemes.com/demo/"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://yalathemes.com/"
+msgstr ""

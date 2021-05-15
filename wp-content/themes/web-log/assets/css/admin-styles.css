@@ -1,0 +1,14 @@
+
+/*
+Widget at Apperence > widgets 
+*/
+
+.widgets-holder-wrap [id*="30_author-widget"] .widget-top, .widgets-holder-wrap [id*="31_web-log-recent-post"] .widget-top{
+
+    background: #f36a25;
+    box-shadow: none !important;
+    border: none !important;
+}
+
+.widgets-holder-wrap [id*="30_author-widget"] .widget-top h3, .widgets-holder-wrap [id*="31_web-log-recent-post"] .widget-top h3 {color: #FFF;}
+

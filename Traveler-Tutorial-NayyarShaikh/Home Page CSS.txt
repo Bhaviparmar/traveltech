@@ -1,0 +1,6 @@
+/*** Code for Home Banner ***/
+<div class="stt-discount">
+<h2 class="f36" style="color: #ffffff; margin-top: 0; font-family: 'Playfair Display'; line-height: 48px;">Sale up for new year</h2>
+<span class="f18 lh18" style="color: #ffffff;">Curabitur blandit tempus</span>
+
+</div>

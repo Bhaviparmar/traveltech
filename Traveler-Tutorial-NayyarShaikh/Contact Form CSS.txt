@@ -1,0 +1,19 @@
+<div class="st-contact-form">
+                        <div class="contact-header">
+                            <h3>We'd love to hear from you</h3>
+                            <p>Send us a message and we'll respond as soon as possible</p>
+                        </div>
+                        <div class="contact-form">
+                            <div class="form-group">
+[text* your-name class:form-control placeholder "Name"]
+                            </div>
+                            <div class="form-group">
+[email* your-email class:form-control placeholder "Email"] 
+                            </div>
+                            <div class="form-group">
+[textarea your-message class:form-control placeholder "Message"]
+                            </div>
+[submit class:btn class:btn-primary "SEND MESSAGE"]
+                          
+                        </div>
+                    </div>

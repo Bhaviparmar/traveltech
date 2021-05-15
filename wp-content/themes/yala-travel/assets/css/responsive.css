@@ -1,0 +1,360 @@
+/* Tablet Screen */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.site-header.style2 .right-nav{
+	display:none;
+}
+.site-header .nav li {
+	margin-right: 10px;
+}
+.site-header .nav li a {
+	font-size: 13px;
+}
+.hero-area, .hero-area .hero-area-inner {
+	height: 500px;
+}
+.hero-area .hero-welcome-text {
+	padding: 96px 0;
+}
+.hero-area .hero-welcome-text h1 {
+	font-size: 45px;
+	line-height: 50px;
+}
+.hero-area .hero-welcome-text h1 span {
+	font-size: 18px;
+	line-height:initial;
+}
+.hero-area.style2, .hero-area.style2 .single-slider {
+	height: 600px;
+}
+.hero-area.style2 .hero-welcome-text {
+	padding: 100px 0;
+	margin-top: 139px;
+}
+.feature-right{
+	display:none;
+}
+.title-line{
+	padding:0;
+}
+.services .single-service {
+	padding: 30px 5px;
+}
+.popular-trips .trip-bottom .trip-left,
+.popular-trips .trip-bottom .rattings{
+	float:none;
+	text-align:left;
+}
+
+.breadcrumbs {
+	padding: 80px 0;
+}
+.breadcrumbs .bread-inner {
+	padding: 0 90px;
+}
+.about-service .service-item {
+	padding: 30px 20px;
+}
+.img-features .single-feature-item {
+	padding: 20px 10px;
+}
+.img-features .feature-content h3 a{
+	font-size:15px;
+}
+.error-page {
+	padding: 100px 0;
+}
+.breadcrumbs h2 {
+	font-size: 35px;
+}
+.contact-info {
+	margin-top: 30px;
+}
+#myMap{
+	height:400px;
+}
+}
+/* Mobile Screen */
+@media only screen and (max-width: 767px) {
+.site-header .main-menu,.site-header .right-nav{
+	display:none;
+}
+.hero-area.style2, .hero-area.style2 .single-slider {
+	height: 400px;
+}
+.hero-area.style2 .hero-welcome-text {
+	padding: 45px 0;
+	margin-top: 139px;
+}
+.slicknav_menu{
+	display:block;
+}
+.site-header .nav li {
+	margin-right: 10px;
+}
+.site-header .nav li a {
+	font-size: 13px;
+}
+.hero-area, .hero-area .hero-area-inner {
+	height: 400px;
+}
+.hero-area .hero-welcome-text {
+	padding: 70px 0;
+}
+.title-line h2 {
+	font-size: 25px;
+}
+.hero-area .hero-welcome-text h1 {
+	font-size: 28px;
+	line-height: 35px;
+}
+.hero-area .hero-welcome-text h1 span {
+	font-size: 18px;
+	line-height:initial;
+}
+.hero-area .hero-welcome-text .btn {
+	padding: 10px 20px;
+}
+.hero-area .hero-welcome-text h1 span {
+	font-size: 15px;
+}
+
+.hero-area .hero-welcome-text .btn {
+  padding: 10px 20px;
+}
+.hero-area .hero-welcome-text h1 span {
+  font-size: 15px;
+}
+.popular-countrys .single-country .content {
+  padding: 10px;
+}
+.popular-countrys .single-country .content ul {
+  margin-top: 15px;
+}
+.popular-countrys .single-country .content ul li {
+  font-size: 14px;
+  margin-right: 0px;
+}
+.single-blog .blog-head {
+	height: 165px;
+	margin-bottom: 10px;
+}
+.feature-right{
+	display:none;
+}
+.title-line{
+	padding:0;
+}
+.services .single-service {
+	padding: 30px 5px;
+}
+.popular-trips .trip-bottom .trip-left,
+.popular-trips .trip-bottom .rattings{
+	float:none;
+	text-align:left;
+}
+
+.breadcrumbs {
+	padding: 80px 0;
+}
+.breadcrumbs .bread-inner {
+	padding: 0 90px;
+}
+.about-service .service-item {
+	padding: 30px 20px;
+}
+.img-features .single-feature-item {
+	padding: 20px 10px;
+}
+.img-features .feature-content h3 a{
+	font-size:15px;
+}
+.error-page {
+	padding: 100px 0;
+}
+.breadcrumbs h2 {
+	font-size: 25px;
+}
+.single-faq .faq-title a {
+	font-size: 14px;
+	width: 95%;
+}
+.single-faq .faq-title a::before {
+	right: -20px;
+}
+.error-page .error-inner h2 {
+	font-size: 50px;
+}
+.contact-info {
+	margin-top: 30px;
+}
+.product-gallery .flex-control-thumbs li {
+	margin-right: 5px;
+}
+.single-tour-content h3 {
+	font-size: 15px;
+}
+.trip-tab .nav-tabs li {
+	margin-right: 5px;
+}
+.trip-tab .tab-content .tab-pane .sub-title {
+	font-size: 15px;
+	line-height: 22px;
+}
+.tour-sidebar .single-widget.trip-details .btn {
+	padding: 10px 15px;
+}
+.tour-sidebar .single-widget {
+	padding: 20px 15px;
+}
+.single-blog .blog-head {
+	overflow: hidden;
+}
+.blog-cta-inner h2 {
+	font-size: 20px;
+	padding: 10px 0;
+	margin: 0;
+}
+.pagination li.prev a, .pagination li.next a {
+	padding: 5px 10px;
+}
+.pagination li a {
+	width: 38px;
+	height: 38px;
+	line-height: 38px;
+}
+.pagination li.prev, .pagination li.next {
+	display: block;
+	margin: 10px 0;
+}
+#myMap{
+	height:400px;
+}
+
+.contact-us .contact-head {
+  padding: 20px;
+}
+.contact-us .title h3 {
+  font-size: 20px;
+}
+#myMap {
+  height: 200px;
+}
+.site-header .logo {
+	margin: 0;
+}
+.slicknav_btn {
+	margin-top: 12px;
+	font-size:22px;
+	background: transparent;
+}
+.slicknav_nav .slicknav_item a i {
+	display: none;
+}
+.slicknav_menu {
+	background: transparent;
+}
+.slicknav_nav {
+	clear: both;
+	color: #fff;
+	margin: 0;
+	font-size: .875em;
+	background: transparent;
+}
+.slicknav_nav li a{
+	color:#424646;
+	transition:all 0.4s ease;
+	background:none;
+}
+.slicknav_nav li:hover a{
+	background:#00bdbb;
+	color:#fff;
+	padding-left:5px;
+}
+.slicknav_nav li .dropdown li a{
+	color:#555;
+	background:transparent;
+}
+.slicknav_nav li .dropdown li a:hover{
+	color:#00bdbb;
+}
+.slicknav_nav li .slicknav_item{
+	background:transparent;
+}
+.slicknav_nav .slicknav_row, .slicknav_nav a {
+	padding: 0;
+	margin: 0;
+	padding: 6px 0;
+	font-weight: 500;
+}
+.slicknav_nav li:last-child a{
+	padding-bottom:0px;
+}
+.slicknav_menu .slicknav_icon-bar {
+	background-color: #02bdbb;
+	box-shadow: none;
+	text-shadow: none;
+}
+.slicknav_nav .slicknav_arrow{
+	color:#00bdbb;
+}
+.slicknav_menu .slicknav_icon-bar {
+	display: block;
+	width: 25px;
+	height: 3px;
+	-webkit-border-radius: 1px;
+	-moz-border-radius: 1px;
+	border-radius: 1px;
+	-webkit-box-shadow: 0 1px 0 rgba(0,0,0,.25);
+	-moz-box-shadow: 0 1px 0 rgba(0,0,0,.25);
+	box-shadow: 0 1px 0 rgba(0,0,0,.25);
+}
+.breadcrumbs .bread-inner {
+	padding: 0;
+}
+.about-us .about-content h2 {
+	font-size: 20px;
+}
+.site-header .top-right {
+  float: none;
+  text-align: center;
+  width: 100%;
+}
+.site-header .social {
+  float: none;
+  display: inline-block;
+  margin-right: 10px;
+}
+.site-header .top-btn {
+  float: none;
+  display: inline-block;
+}
+.blog-single-main blockquote{
+	padding:20px;
+}
+
+.comments .single-comment img {
+  position: relative;
+  text-align: left;
+}
+.comments .single-comment .content {
+  padding: 0;
+  margin-top: 20px;
+}
+.comments .single-comment.left {
+	margin-left: 10px;
+}
+.comments .single-comment .content .btn {
+	padding: 10px 5px;
+}
+.comments .single-comment {
+	padding: 25px 15px;
+}
+.footer .footer-links {
+	float: none;
+}
+#customer_details .col-1, #customer_details .col-2 {
+    width: 100% !important;
+    display: block;
+    max-width: 100%;
+} 
+}
